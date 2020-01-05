@@ -5,8 +5,6 @@
 	<img
 		alt="extensions"
 		src="https://raw.githubusercontent.com/estebanborai/tkinter-matplotlib-sample/master/docs/screenshot.png"
-		height="768"
-		width="1366"
 	/>
 </div>
 
